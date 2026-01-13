@@ -1,0 +1,3 @@
+            const skelDiff = textureLoader.load('/Chibi_skeleton_diffuse.png');
+            skelDiff.flipY = false;
+
